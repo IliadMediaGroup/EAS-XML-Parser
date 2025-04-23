@@ -30,7 +30,7 @@ A Windows desktop application for parsing Emergency Alert System (EAS) XML files
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/yourusername/eas-xml-parser.git
+   git clone https://github.com/IliadMediaGroup/eas-xml-parser.git
    cd eas-xml-parser
    ```
 2. Install dependencies:
