@@ -96,7 +96,7 @@ This project is licensed under the MIT License. See the LICENSE file for details
 
 ## Contact
 
-For questions or support, open an issue on GitHub or contact \[your email or preferred contact method\].
+For questions or support, open an issue on GitHub or contact \[codyw@iliadmg.com\].
 
 ---
 
