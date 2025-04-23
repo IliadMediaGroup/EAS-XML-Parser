@@ -32,9 +32,9 @@ DisableProgramGroupPage=yes
 ; Remove the following line to run in administrative install mode (install for all users).
 PrivilegesRequired=lowest
 PrivilegesRequiredOverridesAllowed=dialog
-OutputDir=C:\Users\Cody\Documents\Scripts
+#OutputDir=C:\Users\YourUser\YourRootProjectDirectory\Scripts
 OutputBaseFilename=EASy-XML-Parser
-SetupIconFile=C:\Users\Cody\Documents\Scripts\icon.ico
+#SetupIconFile=C:\Users\YourUser\YourRootProjectDirectory\icon.ico
 SolidCompression=yes
 WizardStyle=modern
 
@@ -45,7 +45,7 @@ Name: "english"; MessagesFile: "compiler:Default.isl"
 Name: "desktopicon"; Description: "{cm:CreateDesktopIcon}"; GroupDescription: "{cm:AdditionalIcons}"; Flags: unchecked
 
 [Files]
-Source: "C:\Users\Cody\Documents\Scripts\dist\{#MyAppExeName}"; DestDir: "{app}"; Flags: ignoreversion
+#Source: "C:\Users\YourUser\YourRootProjectDirectory\dist\{#MyAppExeName}"; DestDir: "{app}"; Flags: ignoreversion
 ; NOTE: Don't use "Flags: ignoreversion" on any shared system files
 
 [Icons]
