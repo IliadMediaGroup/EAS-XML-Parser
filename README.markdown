@@ -1,3 +1,5 @@
+![App Icon](images/app_icon_github.png)
+
 # EAS XML Parser
 
 A Windows desktop application for parsing Emergency Alert System (EAS) XML files and generating Excel reports for Required Weekly Tests (RWT) and Required Monthly Tests (RMT). The app updates a single Excel file per month with weekly data, creating new files for new months. Built with PyQt5 and packaged as an MSI installer.
